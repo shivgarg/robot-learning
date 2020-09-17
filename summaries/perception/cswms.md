@@ -1,6 +1,6 @@
 Contributions: 
 1.    Introduce CSWMs: structured models for learning abstract state representations from objects in an environment.  The paper demonstrates use of structured priors in environment modelling to induce a bias in the learning process. 
-2.     Adapts an object level contrastive loss to learn state representations.  A connection is established with KB graph embeddings approach and the improvements in both the fields can be transferred among the fields. 
+2. Adapts an object level contrastive loss to learn state representations.  A connection is established with KB graph embeddings approach and the improvements in both the fields can be transferred among the fields. 
 3.    Used ranking based eval metrics. A generated next state is compared with a set of reference states.  
 
 The paper is well written and easy to read. The design decisions are justified with extensive ablation studies in the appendix.  The paper shows promising approach to learn state representations by inducing some structure in the modelling of the problem. 
